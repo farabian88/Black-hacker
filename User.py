@@ -56,10 +56,10 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m farabi77
+\033[1;96mAuthor  \033[1;93m: \033[1;92m farabi 007
 \033[1;96mInstagram \033[1;93m: \033[1;Farabi chowdhury
 \033[1;96mFacebook  \033[1;93m: \033[1; https://www.facebook.com/Farabi.arfin11/
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/farabian88/Black-hacker/edit/master/zeroboy.py
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/farabian88/Black-hacker/
 \033[1;91m======================================="""
 
 def tik():
